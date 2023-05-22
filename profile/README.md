@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi have fun with bug！ 👋
 
+We search bug, collect bug, protect bug.
+
+Bugs are our good friend! Not the enemy！
 <!--
 
 **Here are some ideas to get you started:**
